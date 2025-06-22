@@ -2,6 +2,8 @@
 
 Welcome to the Smart Chat Application repository! This project demonstrates a modern, AI-powered chat platform that stores user messages, answers questions using advanced AI, and leverages Astra DB for fast and reliable data storage.
 
+Link to try the website - https://astra.datastax.com/langflow/f821e3a4-76a1-4344-88ea-2cac45e1d9c3/playground/4c11f27d-4027-44f4-ad2d-39894105283d
+
 **Features**
 
 Modular, production-grade React components (sourced from Astra DB's official UI library)
@@ -13,8 +15,6 @@ User messages stored securely in Astra DB
 AI-powered question answering using Groq’s state-of-the-art language models
 
 Clean, scalable codebase ready for further enhancements
-
-
 
 
 **Tech Stack**
