@@ -2,8 +2,6 @@
 
 Welcome to the Smart Chat Application repository! This project demonstrates a modern, AI-powered chat platform that stores user messages, answers questions using advanced AI, and leverages Astra DB for fast and reliable data storage.
 
-
-
 **Features**
 
 Modular, production-grade React components (sourced from Astra DB's official UI library)
